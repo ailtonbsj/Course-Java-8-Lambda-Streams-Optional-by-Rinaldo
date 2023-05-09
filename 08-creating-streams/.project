@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>07-builtin-functional-interfaces</name>
+	<name>08-creating-streams</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -16,7 +16,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1683596680277</id>
+			<id>1683596680287</id>
 			<name></name>
 			<type>30</type>
 			<matcher>
